@@ -1,5 +1,5 @@
-€}q(Upolls.tests]Umanage]Umysite]Umysite.settings]q(U	TEMPLATESqUUSE_L10NqULANGUAGE_CODEqUUSE_TZqUUSE_I18NqU	DATABASESqU	TIME_ZONEq	U
+€}q(Upolls.tests]Upolls]Umysite]Umysite.settings]q(U	TEMPLATESqUUSE_L10NqULANGUAGE_CODEqUUSE_TZqUUSE_I18NqU	DATABASESqU	TIME_ZONEq	U
 STATIC_URLq
 UROOT_URLCONFqUWSGI_APPLICATIONqUMIDDLEWARE_CLASSESqUDEBUGqUALLOWED_HOSTSqU
-SECRET_KEYqUBASE_DIRqUINSTALLED_APPSqeUmysite.wsgi]qUapplicationqaUpolls]U
-polls.urls]qUurlpatternsqaUpolls.views]q(UindexqUdetailqUresultsqUvoteqeUpolls.migrations]Umysite.models]qUPersonqaUpolls.admin]q(UQuestionAdminqUChoiceInlineq eUmysite.urls]q!haUpolls.migrations.0001_initial]q"U	Migrationq#aUpolls.models]q$(UChoiceq%UQuestionq&eu.
+SECRET_KEYqUBASE_DIRqUINSTALLED_APPSqeUmysite.wsgi]qUapplicationqaUmanage]U
+polls.urls]qUurlpatternsqaUpolls.views]q(UresultsqUindexqUdetailqUvoteqeUpolls.models]q(UChoiceqUQuestionqeUpolls.migrations]Umysite.models]qUPersonq aUmysite.urls]q!haUpolls.migrations.0001_initial]q"U	Migrationq#aUpolls.admin]q$(UQuestionAdminq%UChoiceInlineq&eu.
